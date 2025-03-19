@@ -26,7 +26,6 @@ Este projeto está em fase inicial e será continuamente aprimorado com novos re
 ### **Frontend**
 - **Linguagem:** TypeScript
 - **Framework:** React
-- **Deploy:** Vercel ou Netlify (planos gratuitos com integração contínua)
 
 ### **Backend**
 - **Linguagem:** JavaScript/TypeScript
@@ -66,7 +65,7 @@ Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) ou visite [Apache 2.0 
 
 ## Contato
 
-Para dúvidas, sugestões ou feedback, sinta-se à vontade para abrir uma _issue_ ou entrar em contato por [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
+Para dúvidas, sugestões ou feedback, sinta-se à vontade para abrir uma _issue_ ou entrar em contato por [anderson@acgoulart.pro](mailto:anderson@acgoulart.pro).
 
 ---
 
