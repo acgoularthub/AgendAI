@@ -1,4 +1,3 @@
-```markdown
 # AgendAI - Planejador Inteligente de Tarefas com IA
 
 AgendAI é um projeto em desenvolvimento que visa oferecer um planejador inteligente de tarefas, utilizando técnicas de inteligência artificial para otimizar o gerenciamento do dia a dia. Com integração a calendários externos e recomendações personalizadas, o AgendAI foi concebido para ser uma ferramenta tanto para uso pessoal quanto para demonstrar habilidades em projetos modernos e escaláveis.
@@ -72,4 +71,4 @@ Para dúvidas, sugestões ou feedback, sinta-se à vontade para abrir uma _issue
 ---
 
 _Agora, mãos à obra e vamos construir um futuro mais organizado!_
-```
+
